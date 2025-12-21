@@ -52,7 +52,7 @@ The project includes both **Python** and **C++** implementations for generating,
 - Support for exporting frames/animations  
 
 ###  **C++ and Python Implementations**
-- Efficient C++ programs for large-scale word enumeration  
+- Efficient C++ programs for word enumeration  
 - Python tools for visualization and experimentation  
 
 
